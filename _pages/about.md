@@ -28,7 +28,7 @@ My research interest is mainly on training algorithms for LLMs, especially the o
 - *2025.03*: [DSKDv2](https://arxiv.org/abs/2504.11426) has been released on arxiv. 
 - *2024.09*: &nbsp;🎉🎉 [DSKD](https://arxiv.org/abs/2406.17328) has been accepted by EMNLP2024! 
 
-# 📝 Selected Papers 
+# 📝 Selected Papers [[Full]](https://scholar.google.com/citations?user=u_bYOuYAAAAJ&hl=zh-CN)
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
@@ -59,7 +59,6 @@ for Neural Machine Translation](https://arxiv.org/abs/2305.08096) (**ACL 2023 Ma
 
   **Songming Zhang\***, Yijin Liu*, Fandong Meng, Yufeng Chen, Jinan Xu, Jian Liu, Jie Zhou
 
-  [[Full paper list](https://scholar.google.com/citations?user=u_bYOuYAAAAJ&hl=zh-CN)]
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
