@@ -32,12 +32,15 @@ My research interest is mainly on training algorithms for LLMs, especially the o
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
+## Preprint
 
-- [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426) (**Preprint**)
+- [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)
 
   Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou
 
   ---
+
+## Publications
 
 - [AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832) (**ACL 2025 Main**)
 
