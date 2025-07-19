@@ -25,7 +25,7 @@ My research interest is mainly on training algorithms for LLMs, especially the o
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ACL2025! See you in Vienna. 
-- *2025.03*: &nbsp;🎉🎉 DSKDv2 has been released on [arxiv](https://arxiv.org/abs/2504.11426). 
+- *2025.03*: [DSKDv2](https://arxiv.org/abs/2504.11426) has been released on arxiv. 
 - *2024.09*: &nbsp;🎉🎉 [DSKD](https://arxiv.org/abs/2406.17328) has been accepted by EMNLP2024! 
 
 # 📝 Selected Publications 
@@ -33,24 +33,24 @@ My research interest is mainly on training algorithms for LLMs, especially the o
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
-\[**Arxiv**\] [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)
+`Preprint` [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)
 
 Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou
 
-\[**ACL 2025**\] [AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832)
+`ACL 2025` [AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832)
 
 **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
 
-\[**EMNLP 2024**\] [Dual-Space Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2406.17328)
+`EMNLP 2024` [Dual-Space Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2406.17328)
 
 **Songming Zhang**, Xue Zhang, Zengkui Sun, Yufeng Chen, Jinan Xu
 
-\[**ACL 2023**\] [Towards Understanding and Improving Knowledge Distillation
+`ACL 2023` [Towards Understanding and Improving Knowledge Distillation
 for Neural Machine Translation](https://arxiv.org/abs/2305.08096)
 
 **Songming Zhang**, Yunlong Liang, Shuaibo Wang, Yufeng Chen, Wenjuan Han, Jian Liu, Jinan Xu
 
-\[**ACL 2022**\] [Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation](https://arxiv.org/abs/2203.02951)
+`ACL 2022` [Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation](https://arxiv.org/abs/2203.02951)
 
 **Songming Zhang\***, Yijin Liu*, Fandong Meng, Yufeng Chen, Jinan Xu, Jian Liu, Jie Zhou
 
