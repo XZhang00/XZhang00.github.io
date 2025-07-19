@@ -76,9 +76,11 @@ for Neural Machine Translation](https://arxiv.org/abs/2305.08096)
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2021.01 - 2022.01*, WeChat AI, Tencent.
+- *2022.02 - 2024.03*, TI Cloud Inc.
+- *2024.07 - Now*, WeChat, Tencent.
 
-# 💻 Services
+# 🔖 Services
 - ACL 2023, Reviewer
 - ACL ARR 2023-2025, Reviewer
