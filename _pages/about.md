@@ -37,20 +37,20 @@ My research interest is mainly on training algorithms for LLMs, especially the o
 
 Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou
 
-[`ACL 2025`] [AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832)
+`ACL 2025` [AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832)
 
 **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
 
-[`EMNLP 2024`] [Dual-Space Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2406.17328)
+`EMNLP 2024` [Dual-Space Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2406.17328)
 
 **Songming Zhang**, Xue Zhang, Zengkui Sun, Yufeng Chen, Jinan Xu
 
-[`ACL 2023`] [Towards Understanding and Improving Knowledge Distillation
+`ACL 2023` [Towards Understanding and Improving Knowledge Distillation
 for Neural Machine Translation](https://arxiv.org/abs/2305.08096)
 
 **Songming Zhang**, Yunlong Liang, Shuaibo Wang, Yufeng Chen, Wenjuan Han, Jian Liu, Jinan Xu
 
-[`ACL 2022`] [Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation](https://arxiv.org/abs/2203.02951)
+`ACL 2022` [Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation](https://arxiv.org/abs/2203.02951)
 
 **Songming Zhang\***, Yijin Liu*, Fandong Meng, Yufeng Chen, Jinan Xu, Jian Liu, Jie Zhou
 
