@@ -20,7 +20,7 @@ redirect_from:
 # 👨‍💻 About Me
 I am now a third-year PhD student in Beijing Jiaotong University, advised by Prof. Yufeng Chen and Prof. Jinan Xu. Before that, I started my master's degree in 2020 and transferred to the doctoral program in 2022. I am now interning at WeChat, Tencent, working on LLM safety.
 
-My research interest is mainly on training algorithms for LLMs, especially the ones that enhance the model capacity with limited model size, like knowledge distillation and RL techniques. Now I am also interested in LLM safety, seeking the balance between model safety and model intelligence.
+My research interest is mainly on training algorithms for LLMs, especially the ones that enhance the model capacity with the fixed model size, like knowledge distillation and RL techniques. Now I am also interested in LLM safety, seeking the balance between model safety and model intelligence.
 
 
 # 🔥 News
