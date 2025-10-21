@@ -67,9 +67,6 @@ for Neural Machine Translation](https://arxiv.org/abs/2305.08096) (**ACL 2023 Ma
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2022.09 - Now*, Beijing Jiaotong University, PhD Student. 
@@ -88,3 +85,6 @@ for Neural Machine Translation](https://arxiv.org/abs/2305.08096) (**ACL 2023 Ma
 # 🔖 Services
 - ACL 2023, Reviewer
 - ACL ARR 2023-2025, Reviewer
+
+# 🎖 Honors and Awards
+- *2025*, National Scholarship. 
