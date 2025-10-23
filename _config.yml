@@ -6,29 +6,29 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Songming Zhang (张松鸣)"
-description              : "Focus on training techniques for LLMs and LLM Safety."
-repository               : "songmzhang/songmzhang.github.io"
+title                    : "Xue Zhang (张雪) | BJTU-NLP"
+description              : "Focus on Multilingual Large Language Models."
+repository               : "XZhang00/XZhang00.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification : qdnBs6wOTeDAodavyGBog8daUv0D4XBGl3qB8rWFsLk # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification : eOYaih0dzWdKPbZxUaxzRnKytnhmTXD7Uao3GOxtrBU # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   : 16A52587D8DA1D3CA68AACE279AFF058 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Songming Zhang (张松鸣)"
+  name             : "Xue Zhang (张雪)"
   avatar           : "images/my_photo.png"
   bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=u_bYOuYAAAAJ"
-  email            : "zhangsm86@outlook.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=rh-QHwQAAAAJ"
+  email            : "zhang_xue@bjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "songmzhang"  # e.g., "github username"
+  github           : "XZhang00"  # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/315/4171-1.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
