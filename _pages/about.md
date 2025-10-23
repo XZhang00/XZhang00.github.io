@@ -18,15 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About Me
-I am now a third-year PhD student in Beijing Jiaotong University, advised by Prof. Yufeng Chen and Prof. Jinan Xu. Before that, I started my master's degree in 2020 and transferred to the doctoral program in 2022. I am now interning at WeChat, Tencent, working on LLM safety.
+I am now a third-year PhD student at Beijing Jiaotong University, advised by Prof. Yufeng Chen, Prof. Kaiyu Huang, and Prof. Jinan Xu. Before that, I started my master's degree in 2021 and transferred to the doctoral program in 2023. I am now interning at WeChat AI, Tencent.
 
-My research interest is mainly on training algorithms for LLMs, especially the ones that enhance the model capacity without scaling up the model size, like knowledge distillation and RL techniques. Now I am also interested in LLM safety, seeking the balance between model safety and model intelligence.
+My research interests include **Multilingual large language models**; **Multilingual analysis and interpretability**; **Knowledge transfer and distillation**.
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ACL2025! See you in Vienna. 
-- *2025.03*: [DSKDv2](https://arxiv.org/abs/2504.11426) has been released on arxiv. 
-- *2024.09*: &nbsp;🎉🎉 [DSKD](https://arxiv.org/abs/2406.17328) has been accepted by EMNLP2024! 
+- *2025.10*: [M-Thinker](https://arxiv.org/abs/2510.07300) has been released on arxiv. Code, data, and models are available at [https://github.com/XZhang00/M-Thinker](https://github.com/XZhang00/M-Thinker).
+- *2025.09*: &nbsp;🎉🎉 CM-Align has been accepted by EMNLP 2025 (findings)!
+- *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ACL 2025! See you in Vienna. 
+- *2025.03*: [DSKDv2](https://arxiv.org/abs/2504.11426) has been released on arxiv.
+- *2024.12*: &nbsp;🎉🎉 [LU-LAFNs](https://arxiv.org/abs/2406.16416) has been accepted by COLING 2025! 
+- *2024.09*: &nbsp;🎉🎉 [DSKD](https://arxiv.org/abs/2406.17328) has been accepted by EMNLP 2024! 
 
 # 📝 Selected Papers [[Full]](https://scholar.google.com/citations?user=u_bYOuYAAAAJ&hl=zh-CN)
 
