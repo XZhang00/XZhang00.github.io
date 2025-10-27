@@ -93,5 +93,5 @@ My research interests include **Multilingual large language models**; **Multilin
 # 🔖 Services
 - Workshop Student Chair: As one of the student chairs, I will organize a workshop ("Multilinguality in the Era of Large Language Models") at the ACL 2026 conference.
 - ACL ARR 2023-2025, Reviewer
-- IEEE TAMC, Reviewer
+- IEEE TSMCS, Reviewer
 
