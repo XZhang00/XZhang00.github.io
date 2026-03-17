@@ -87,7 +87,8 @@ My research interests include **Multilingual large language models**; **Multilin
 
 
 # 💻 Internships
-- *2024.01 - Now*, WeChat, Tencent.
+- *2025.01 - Now*, Seed, Bytedance.
+- *2024.01 - 2025.01*, WeChat, Tencent.
 - *2022.02 - 2023.09*, TI Cloud Inc.
 
 # 🔖 Services
