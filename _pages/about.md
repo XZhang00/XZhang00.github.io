@@ -20,10 +20,11 @@ redirect_from:
 # 👨‍💻 About Me
 I am now a third-year PhD student at Beijing Jiaotong University, advised by Prof. Yufeng Chen, Prof. Kaiyu Huang, and Prof. Jinan Xu. Before that, I started my master's degree in 2021 and transferred to the doctoral program in 2023. I am now interning at WeChat AI, Tencent.
 
-My research interests include **Multilingual large language models**; **Multilingual analysis and interpretability**; **Knowledge transfer and distillation**.
+My research interests include **LLM Post Training**; **Multilingual large language models**; **Multilingual analysis and interpretability**; **Knowledge transfer and distillation**.
 
 
 # 🔥 News
+- *2026.03*: [KDFlow](https://arxiv.org/abs/2603.01875) has been released on arxiv. ([Code](https://github.com/songmzhang/KDFlow))
 - *2025.10*: [M-Thinker](https://arxiv.org/abs/2510.07300) has been released on arxiv. Code, data, and models are available at [https://github.com/XZhang00/M-Thinker](https://github.com/XZhang00/M-Thinker).
 - *2025.09*: &nbsp;🎉🎉 [CM-Align](https://arxiv.org/abs/2509.08541) has been accepted by EMNLP 2025 (findings)!
 - *2025.05*: &nbsp;🎉🎉 Two papers ([LayerMoE](https://arxiv.org/abs/2505.22582) and [AlignDistil](https://arxiv.org/abs/2503.02832)) have been accepted by ACL 2025! See you in Vienna. 
@@ -43,6 +44,10 @@ My research interests include **Multilingual large language models**; **Multilin
 - [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)
 
   **Xue Zhang\***, Songming Zhang*, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou
+
+- [KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](https://arxiv.org/abs/2603.01875)
+
+  Songming Zhang, **Xue Zhang**, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
 
   ---
 
