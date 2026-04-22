@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About Me
-I am now a third-year PhD student at Beijing Jiaotong University, advised by Prof. Yufeng Chen, Prof. Kaiyu Huang, and Prof. Jinan Xu. Before that, I started my master's degree in 2021 and transferred to the doctoral program in 2023. I am now interning at WeChat AI, Tencent.
+I am now a third-year PhD student at Beijing Jiaotong University, advised by Prof. Yufeng Chen, Prof. Kaiyu Huang, and Prof. Jinan Xu. Before that, I started my master's degree in 2021 and transferred to the doctoral program in 2023. I am now interning at Seed, Bytedance.
 
 My research interests include **LLM Post Training**; **Multilingual large language models**; **Multilingual analysis and interpretability**; **Knowledge transfer and distillation**.
 
@@ -98,6 +98,6 @@ My research interests include **LLM Post Training**; **Multilingual large langua
 - *2022.02 - 2023.09*, TI Cloud Inc.
 
 # 🔖 Services
-- Workshop Student Chair: As one of the student chairs, I will organize a workshop ("Multilinguality in the Era of Large Language Models") at the ACL 2026 conference.
+- Workshop Student Chair: As one of the student chairs, we will organize a workshop ("MeLLM, Multilinguality in the Era of Large Language Models") at the ACL 2026 conference.
 - ACL ARR 2023-2025, Reviewer
 
