@@ -24,6 +24,7 @@ My research interests include **LLM Post Training**; **Multilingual large langua
 
 
 # 🔥 News
+- *2026.04*: [M-Thinker](https://arxiv.org/abs/2510.07300) has been accepted by ACL 2026! 
 - *2026.03*: [KDFlow](https://arxiv.org/abs/2603.01875) has been released on arxiv. ([Code](https://github.com/songmzhang/KDFlow))
 - *2025.10*: [M-Thinker](https://arxiv.org/abs/2510.07300) has been released on arxiv. Code, data, and models are available at [https://github.com/XZhang00/M-Thinker](https://github.com/XZhang00/M-Thinker).
 - *2025.09*: &nbsp;🎉🎉 [CM-Align](https://arxiv.org/abs/2509.08541) has been accepted by EMNLP 2025 (findings)!
@@ -37,10 +38,6 @@ My research interests include **LLM Post Training**; **Multilingual large langua
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Preprint
-- [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/abs/2510.07300)
-
-  **Xue Zhang**, Yunlong Liang, Fandong Meng, Songming Zhang, Kaiyu Huang, Yufeng Chen, Jinan Xu, Jie Zhou
-
 - [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)
 
   **Xue Zhang\***, Songming Zhang*, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou
@@ -52,6 +49,10 @@ My research interests include **LLM Post Training**; **Multilingual large langua
   ---
 
 ## Publications
+- [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/abs/2510.07300) (**ACL 2026**)
+
+  **Xue Zhang**, Yunlong Liang, Fandong Meng, Songming Zhang, Kaiyu Huang, Yufeng Chen, Jinan Xu, Jie Zhou
+  
 - [CM-Align: Consistency-based Multilingual Alignment for Large Language Models](https://arxiv.org/abs/2509.08541) (**EMNLP 2025 Findings**)
 
   **Xue Zhang**, Yunlong Liang, Fandong Meng, Songming Zhang, Yufeng Chen, Jinan Xu, Jie Zhou
@@ -92,12 +93,11 @@ My research interests include **LLM Post Training**; **Multilingual large langua
 
 
 # 💻 Internships
-- *2025.01 - Now*, Seed, Bytedance.
-- *2024.01 - 2025.01*, WeChat, Tencent.
+- *2026.01 - Now*, Seed, Bytedance.
+- *2024.01 - 2026.01*, WeChat, Tencent.
 - *2022.02 - 2023.09*, TI Cloud Inc.
 
 # 🔖 Services
 - Workshop Student Chair: As one of the student chairs, I will organize a workshop ("Multilinguality in the Era of Large Language Models") at the ACL 2026 conference.
 - ACL ARR 2023-2025, Reviewer
-- IEEE TSMCS, Reviewer
 
