@@ -24,7 +24,7 @@ My research interests include **LLM Post Training**; **Multilingual large langua
 
 
 # 🔥 News
-- *2026.04*: [M-Thinker](https://arxiv.org/abs/2510.07300) has been accepted by ACL 2026! 
+- *2026.04*: [M-Thinker](https://arxiv.org/abs/2510.07300) has been accepted by ACL 2026 (**Oral**)! 
 - *2026.03*: [KDFlow](https://arxiv.org/abs/2603.01875) has been released on arxiv. ([Code](https://github.com/songmzhang/KDFlow))
 - *2025.10*: [M-Thinker](https://arxiv.org/abs/2510.07300) has been released on arxiv. Code, data, and models are available at [https://github.com/XZhang00/M-Thinker](https://github.com/XZhang00/M-Thinker).
 - *2025.09*: &nbsp;🎉🎉 [CM-Align](https://arxiv.org/abs/2509.08541) has been accepted by EMNLP 2025 (findings)!
@@ -49,7 +49,7 @@ My research interests include **LLM Post Training**; **Multilingual large langua
   ---
 
 ## Publications
-- [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/abs/2510.07300) (**ACL 2026**)
+- [Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning](https://arxiv.org/abs/2510.07300) (**ACL 2026 Oral**)
 
   **Xue Zhang**, Yunlong Liang, Fandong Meng, Songming Zhang, Kaiyu Huang, Yufeng Chen, Jinan Xu, Jie Zhou
   
