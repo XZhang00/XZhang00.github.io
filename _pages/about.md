@@ -93,11 +93,12 @@ My research interests include **LLM Post Training**; **Multilingual large langua
 
 
 # 💻 Internships
-- *2026.01 - Now*, Seed, Bytedance.
+- *2026.07 - Now*, WeLM, Tencent.
+- *2026.01 - 2026.06*, Seed, Bytedance.
 - *2024.01 - 2026.01*, WeChat, Tencent.
-- *2022.02 - 2023.09*, TI Cloud Inc.
+
 
 # 🔖 Services
-- Workshop Student Chair: As one of the student chairs, we will organize a workshop ("MeLLM, Multilinguality in the Era of Large Language Models") at the ACL 2026 conference.
-- ACL ARR 2023-2025, Reviewer
+- Workshop Student Chair: As one of the student chairs, we organized the MeLLM workshop ("Multilinguality in the Era of Large Language Models") at the ACL 2026 conference.
+- ACL ARR 2023-2026, Reviewer
 
