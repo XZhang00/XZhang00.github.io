@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xue Zhang (张雪) | BJTU-NLP"
-description              : "Focus on Multilingual Large Language Models."
+description              : "Focus on LLM Post Training, Multilingual LLMs."
 repository               : "XZhang00/XZhang00.github.io"
 google_scholar_stats_use_cdn : true
 
